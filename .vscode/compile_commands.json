@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/aaronher/Desktop/Simulator/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -isystem /opt/homebrew/include -isystem /usr/local/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks  -fsanitize=address -o CMakeFiles/Simulator.dir/main.cpp.o -c /Users/aaronher/Desktop/Simulator/main.cpp",
+  "file": "/Users/aaronher/Desktop/Simulator/main.cpp",
+  "output": "CMakeFiles/Simulator.dir/main.cpp.o"
+}
+]
